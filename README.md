@@ -86,7 +86,7 @@ p {
     <p> aici ne puteti contacta ❤️ </p>
 
     <a class="btn instagram"
-       href="https://www.instagram.com/livram_florii_la_domiciliu_?igsh=OG5vNHdqN2Q0eXk1"
+       href="https://www.instagram.com/floraria_mariana_sud_?igsh=OG5vNHdqN2Q0eXk1 "
        target="_blank">
        Instagram
     </a>
